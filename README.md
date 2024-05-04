@@ -1,2 +1,2 @@
 # GreedySort
-Access satellite selection algorithm for IEEE WCL
+Access satellite selection algorithm for IEEE WCL.
